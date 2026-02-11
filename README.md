@@ -19,16 +19,50 @@
 
 ## 🌐 Connect With Me  
 
-<p align="left">
-<a href="https://github.com/anshmahajan21" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="50" width="500"/>
-</a>
-<a href="https://linkedin.com/in/anshmahajan21" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50"/>
-</a>
-<a href="https://instagram.com/anshmahajan21" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50"/>
-</a>
+<h3 align="left">🔗 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/anshmahajan21" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      alt="GitHub"
+      height="48"
+      style="margin: 0 12px; transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.15)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/anshmahajan21" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      height="48"
+      style="margin: 0 12px; transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.15)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
+  <a href="https://instagram.com/anshmahajan21" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      alt="Instagram"
+      height="48"
+      style="margin: 0 12px; transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.15)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:anshmahajan21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Connect-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/anshmahajan21">
+    <img src="https://img.shields.io/badge/LinkedIn-Let’s%20Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
