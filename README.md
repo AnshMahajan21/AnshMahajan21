@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Java** and strengthening **Data Structures & Algorithms**
 - 🤝 Looking to collaborate and improve in **C++**
-- 💬 Ask me about **Python, JavaScript, MySQL, HTML, CSS**
+- 💬 Ask me about **Java, React, Next.js, Node.js, Three.js, TypeScript, Tailwind CSS**
 - 🎯 Interested in **Backend Development, Cloud Technologies, and System Design**
 - 📫 Reach me at **anshmahajan21@gmail.com**
 
@@ -50,18 +50,18 @@
 
 ---
 
-## 📌 Technical Skills (Recruiter Keywords)
+## 📌 Technical Skills
 
-- **Programming Languages:** C, C++, Java, Python, JavaScript  
-- **Web Technologies:** HTML5, CSS3, JavaScript  
-- **Databases:** MySQL  
-- **Cloud & Tools:** Google Cloud Platform (GCP), Firebase  
+- **Programming Languages:**  Java, C++, JavaScript, TypeScript, Python  
+- **Frameworks:** React, Next.js, Node.js, Three.js, Tailwind CSS
+- **Databases:** MySQL, Supabase (Postgres), Firebase 
+- **Cloud & Tools:** Google Cloud Platform (GCP), Vercel, REST APIs  
 - **Development Tools:** Git, GitHub, Figma  
 - **Core Concepts:**  
   - Object-Oriented Programming (OOP)  
-  - Data Structures & Algorithms  
-  - Problem Solving  
-  - Software Development Fundamentals  
+  - Data Structures & Algorithms
+  - Operating Systems
+  - Computer Networks 
 
 ---
 
