@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me  
 
 - 🌱 Currently learning **Java** and strengthening **Data Structures & Algorithms**
-- 🤝 Looking to collaborate and improve in **C++**
+- 🤝 Looking to collaborate and improve in **Java**
 - 💬 Ask me about **Java, React, Next.js, Node.js, Three.js, TypeScript, Tailwind CSS**
 - 🎯 Interested in **Backend Development, Cloud Technologies, and System Design**
 - 📫 Reach me at **anshmahajan21@gmail.com**
